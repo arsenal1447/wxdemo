@@ -1,0 +1,19 @@
+array (
+  'appid' => 'wx638452640395501b',
+  'body' => '贡献一分钱',
+  'mch_id' => '1220467001',
+  'nonce_str' => 'HrUWrQr5c4Fr5W4g',
+  'notify_url' => 'http://xxxxx.com/WeChat/test/wxpay/callback/notifyUrl.php',
+  'out_trade_no' => 'wx638452640395501b1449739642',
+  'spbill_create_ip' => '123.151.42.47',
+  'total_fee' => '1',
+  'trade_type' => 'APP',
+)
+
+array (
+  'appId' => 'wx638452640395501b',
+  'nonceStr' => 'HrUWrQr5c4Fr5W4g',
+  'package' => 'prepay_id=wx20151210172723c6736b4eb70108289412',
+  'signType' => 'MD5',
+  'timestamp' => 1449739642,
+)
